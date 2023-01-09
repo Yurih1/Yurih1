@@ -1,5 +1,5 @@
 ### Hi 😊
-### My name is Yuri, i live in São Paulo and i'm a web developer.
+### My name is yuri and i'm a web developer.
 
 <div>
   <a href="https://github.com/Yurih1">
