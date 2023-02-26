@@ -1,6 +1,6 @@
 ### Olá, 😊
-### Me chamo Yuri e sou desenvolvedor web. 
-### Sou extremamente fascinado pela area de desenvolvimento e estou sempre em busca de aprender cada dia mais.
+###  Me chamo Yuri, 
+### Sou extremamente fascinado pela area de desenvolvimento e estou sempre em busca de aprender cada dia mais 📖
 <br>
 <div>
   <a href="https://github.com/Yurih1">
