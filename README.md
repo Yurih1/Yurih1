@@ -1,5 +1,5 @@
 ### Olá, 😊
-###  Me chamo Yuri, 
+###  Me chamo Yuri! 
 ### Sou extremamente fascinado pela area de desenvolvimento e estou sempre em busca de aprender cada dia mais 📖
 <br>
 <div>
