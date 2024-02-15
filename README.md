@@ -1,6 +1,5 @@
-### Olá, 😊
-###  Me chamo Yuri! 
-### Sou extremamente fascinado pela area de desenvolvimento e estou sempre em busca de aprender cada dia mais 📖
+#### Olá, Me chamo Yuri! 
+#### Sou um entusiasta da tecnologia e desenvolvedor de software apaixonado por transformar ideias em soluções digitais.
 <br>
 <div>
   <a href="https://github.com/Yurih1">
