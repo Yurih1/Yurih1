@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurih1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- ## Principais tecnologias:
+ #### Principais tecnologias:
  <br>
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
@@ -28,7 +28,7 @@
 
 </div>
  
- ## Contatos:
+ #### Contatos:
  <br>
  <div>
   <a href = "mailto:yurih2009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
