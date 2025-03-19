@@ -1,5 +1,5 @@
 #### Olá, Me chamo Yuri! 
-#### Sou um entusiasta da tecnologia e desenvolvedor de software apaixonado por transformar ideias em soluções digitais.
+#### Software engineer apaixonado por tecnologia.
 <br>
 <div>
   <a href="https://github.com/Yurih1">
